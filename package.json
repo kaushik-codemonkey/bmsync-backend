@@ -2,7 +2,7 @@
   "name": "bmsync-backend",
   "version": "1.0.0",
   "description": "Backend for the BMSync extension that handles the bookmarks storage and retrieval",
-  "main": "src/index.ts",
+  "main": "index.ts",
   "scripts": {
     "build": "npx tsc",
     "start": "node dist/index.js",
